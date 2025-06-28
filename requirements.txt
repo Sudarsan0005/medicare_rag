@@ -1,0 +1,6 @@
+pypdf
+langchain_community
+faiss-cpu
+langchain-openai
+langchain-nvidia-ai-endpoints
+llama_index
